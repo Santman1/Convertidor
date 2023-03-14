@@ -7,11 +7,11 @@
 
 - [Insignia](#Insignia)
 
-- [Imágenes] (#Imagenes-Conversor)
+- [Imágenes](#Imagenes-Conversor)
 
 - [Descripción del proyecto](#descripción)
 
-- [Desarrollado por](#Autor)
+- [Desarrollado por](#autor-✒️)
 
 #
 
