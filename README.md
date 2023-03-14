@@ -1,18 +1,39 @@
 <div align="center">
-       <h1> CONVERSOR DE MONEDA. </h1>
+       <h1> CONVERSOR DE MONEDA </h1>
 
 </div>
 
-### Tópicos 
+## Índice 
+
+- [Insignia](#Insignia)
+
+- [Imágenes] (#Imagenes-Conversor)
 
 - [Descripción del proyecto](#descripción)
 
-- [Funcionalidades](#Imagenes-Conversor)
-
 - [Desarrollado por](#Autor)
 
+#
 
-### Descripción.
+## Insignia
+
+
+![Estado](https://img.shields.io/badge/Estado%20desarrollo-En%20Construccion-green)
+
+![Desarrollado](https://img.shields.io/badge/Desarrollado%20por%20-Santiago%20Sarmiento-important)
+
+![ParaA](https://img.shields.io/badge/Para-Alura-blue)
+
+![ParaA](https://img.shields.io/badge/Para-Oracle%20Next%20Education-critical)
+
+
+![versión](https://img.shields.io/badge/Version-v0.1.0-brightgreen)
+
+![Fecha de lanzamiento de GitHub](https://img.shields.io/badge/Fecha%20de%20lanzamiento-Marzo%202023-red)
+
+#
+
+## Descripción.
 
 _Este Conversor de moneda permite cambiar entre seis monedas:_
 
@@ -28,10 +49,14 @@ _Este Conversor de moneda permite cambiar entre seis monedas:_
 
 - JPY yen. 
 
+<p>
+    Proyecto desarrollado con el fin de implementar los conocimientos adquiridos a lo largo de Java Orientado a Objetos G4 - ONE.
+</p>
+
 #
 
 
-### Imágenes Conversor.
+## Imágenes Conversor.
 
 - Vista principal del proyecto.
 
@@ -53,16 +78,10 @@ _Este Conversor de moneda permite cambiar entre seis monedas:_
 
 ![Vista Error](https://github.com/Santman1/Convertidor/blob/main/Imagenes_Conversor/5.png)
 
-
+#
 ## Autor ✒️
 
 - [Santiago Sarmiento](https://github.com/Santman1)
 
 #
 #
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?Santman1=Your_GitHub_Santman1&theme=blue-green)
-
-![Profile View Counter](https://komarev.com/ghpvc/?Santman1=Your_GitHub_Santman1)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Santman1/Convertidor)
